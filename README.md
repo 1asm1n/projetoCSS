@@ -1,0 +1,1 @@
+Depois de mergulhar a fundo no desenvolvimento mobile, estou revisando os conceitos da programação WEB agora que estou tendo a disciplina na faculdade. Assim, montei esse site simples e responsivo para revisar a base de HTML e CSS.
